@@ -1,3 +1,11 @@
+# Preamble
+
+Take a look at COMMENTS.md for details on this Ad Hoc take home project.
+
+The remaining text on this page is from the original Ad Hoc project.
+
+The original location for this code is at https://homework.adhoc.team/slcsp/
+
 # SLCSP
 
 ## Calculate the second lowest cost silver plan
